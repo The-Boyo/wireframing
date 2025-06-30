@@ -27,3 +27,32 @@ By stripping away visual design elements, wireframes allow designers to concentr
  Indicates where text, images, and other content will be positioned.
 - ### Functionality
  Outlines key functionalities and interactions.
+
+## Types of Wireframes
+- ### Low-Fidelity Wireframes
+  Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+- ### High-Fidelity Wireframes
+ More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+## High-Fidelity Wireframe
+The wireframe therein is a igh-fidelity one because it is detailed and near the final design. It covers ll the aspects of the application and even looks like the final design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
