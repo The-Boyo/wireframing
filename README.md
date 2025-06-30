@@ -37,8 +37,13 @@ By stripping away visual design elements, wireframes allow designers to concentr
 ## High-Fidelity Wireframe
 The wireframe therein is a igh-fidelity one because it is detailed and near the final design. It covers ll the aspects of the application and even looks like the final design.
 
+## Popular Wirefarming Tools
+### Figma
+Its very intuitive and simple to use. With Figma you can create top notch designs and sketches that simply tell how the final application will look. Whether you want to use it for low-fidelity wireframes or high-fidelity ones, Figma gives yo the power to choose and wireframe the best designs.
 
+## Benefits of wireframing from a software development perspective
 
+## Wireframing in Practice
 
 
 
