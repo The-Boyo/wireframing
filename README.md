@@ -40,14 +40,20 @@ The wireframe therein is a high-fidelity one because it is detailed and near the
 ## Popular Wirefarming Tools
 ### Figma
 Its very intuitive and simple to use. With Figma you can create top notch designs and sketches that simply tell how the final application will look. Whether you want to use it for low-fidelity wireframes or high-fidelity ones, Figma gives yo the power to choose and wireframe the best designs.
+<br>
 Figma is your go to tool because it enables real time collaborations on designs, is cloud based and components in figma are reusable. Furthermore, teams can communicate directly within figma about how the designs are taing shape and what to and not include in the wireframe.
+<br>
 Figma is easy to fathom even a beginner can grasp how it works without much sweat. It is even more important for wirefarming because it provides auto layouts and reusable components which assist play a crucial role when making responsive designs.  
 
 ## Benefits of wireframing from a software development perspective
-Wireframing is crucial in software development because it enables the software development team to understand the kind of product they are building moreso the features required. It's a way of easing in the software developers into the application development process. This simply shows in the detailed airbnb wireframe because the developer will want to know if the pages should be scrollable or fixed to the screen, if the fonts and primary colors should remain the same because designs change when it comes to actual coding. This back and forth communication saves time and gives the developers a heads up on what to build.  
+Wireframing is crucial in software development because it enables the software development team to understand the kind of product they are building moreso the features required. It's a way of easing in the software developers into the application development process. 
+<br>
+This simply shows in the detailed airbnb wireframe because the developer will want to know if the pages should be scrollable or fixed to the screen, if the fonts and primary colors should remain the same because designs change when it comes to actual coding. This back and forth communication saves time and gives the developers a heads up on what to build.  
 
 ## Wireframing in Practice
-
+There was a time I was working for a media-tech company called Tisini and we were developing a mobile app for collecting sports data. During the wireframing process, we encountered a navigation hitch. The app was supposed to have a more button at the bottom of the stats summary page that woould navigate the user to the teams stats for all games but it was not conclusive and the user would not understand this. More to where? 
+<br>
+We had to change the design add a prompt that shows up after a minute that navigates the user to the teams statistics page. It worked like magic and users were able to understand how which data they are acccessing. 
 
 
 
